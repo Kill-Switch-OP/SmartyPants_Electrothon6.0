@@ -1,5 +1,5 @@
-![Screenshot (512)](https://github.com/Kill-Switch-OP/SmartyPants_Electrothon6.0/assets/97119511/a3b503d0-0940-41f1-9228-7efc81734be9)
 # SmartyPants
+![Screenshot (512)](https://github.com/Kill-Switch-OP/SmartyPants_Electrothon6.0/assets/97119511/a3b503d0-0940-41f1-9228-7efc81734be9)
 
 > **Empowering businesses to streamline social media management, automate content customization, and optimize engagement through innovative AI-driven solutions.**
 
